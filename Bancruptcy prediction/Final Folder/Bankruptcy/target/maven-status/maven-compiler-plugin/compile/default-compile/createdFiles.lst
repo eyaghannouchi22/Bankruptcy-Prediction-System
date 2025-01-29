@@ -1,0 +1,8 @@
+com\mycompany\bankruptcy\Analysis\FinancialAnalyzer$AdvancedFinancialAnalyzer.class
+com\mycompany\bankruptcy\data\FinancialData.class
+com\mycompany\bankruptcy\Visualization\ChartGenerator.class
+com\mycompany\bankruptcy\Bankruptcy.class
+com\mycompany\bankruptcy\Visualization\ReportGenerator.class
+com\mycompany\bankruptcy\Model\BankruptcyModel.class
+com\mycompany\bankruptcy\Analysis\FinancialAnalyzer.class
+com\mycompany\bankruptcy\data\DataLoader.class
