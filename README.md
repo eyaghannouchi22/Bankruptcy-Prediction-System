@@ -32,4 +32,4 @@ The Bankruptcy Prediction System is an invaluable tool for financial institution
 For any inquiries or contributions to the project, feel free to contact me:
 
 - **Email**:(mailto:eyaghannouchi.tbs@gmail.com)
-- **LinkedIn**:([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/eya-ghannouchi-952923225/))
+- **LinkedIn**:([Eya Ghannouchi](https://www.linkedin.com/in/eya-ghannouchi-952923225/))
